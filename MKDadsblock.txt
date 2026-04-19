@@ -1,0 +1,63 @@
+# Title: MK based ad hosts, links and other annoying stuff
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+#=====================================
+# Bullshit ads hosts list
+
+0.0.0.0 a.skopjeinfo.mk				
+0.0.0.0	ad.doubleclick.net				
+0.0.0.0	ads-d.viber.com				
+0.0.0.0	ads.cdn.viber.com				
+0.0.0.0	ads.com.mk				
+0.0.0.0	ads.faktor.mk				
+0.0.0.0	ads.inovativnost.mk				
+0.0.0.0	ads.telma.com.mk				
+0.0.0.0	ads.tocka.com.mk				
+0.0.0.0	ads.viber.com				
+0.0.0.0	adsdms.mk				
+0.0.0.0	adserver.mk				
+0.0.0.0	aloha64.viber.com				
+0.0.0.0	api.mixpanel.com				
+0.0.0.0	aplikacii.com				
+0.0.0.0	d.adroll.com				
+0.0.0.0	doubleclick.net				
+0.0.0.0	eadsrv.com				
+0.0.0.0 epp.tocka.com.mk				
+0.0.0.0 g.doubleclick.net				
+0.0.0.0 gdebg.hit.gemius.pl				
+0.0.0.0	gdehr.hit.gemius.pl				
+0.0.0.0 gemius.pl				
+0.0.0.0	go.bug.hr				
+0.0.0.0 google.bg				
+0.0.0.0 googleads.g.doubleclick.net				
+0.0.0.0 googleadservices.com				
+0.0.0.0 hit.gemius.pl				
+0.0.0.0 ireklama.mk				
+0.0.0.0 justanswer.com				
+0.0.0.0 keepaneyegdemk.hit.gemius.pl				
+0.0.0.0 laravel.cloud				
+0.0.0.0 locp-ir.viber.com				
+0.0.0.0 nakedly.ai				
+0.0.0.0 nativemedia.rs				
+0.0.0.0 panel.ads.com.mk				
+0.0.0.0 revive-adserver.net				
+0.0.0.0 revive.futura.net.mk				
+0.0.0.0 s-bid.rmp.rakuten.com				
+0.0.0.0 s-imp.rmp.rakuten.com				
+0.0.0.0 tas-mk.toboads.com				
+0.0.0.0	toboads.com
